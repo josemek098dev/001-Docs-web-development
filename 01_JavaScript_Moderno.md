@@ -253,6 +253,10 @@ getImagen( )
 ```
 ### Otros sitios interesantes para aprender
 
-[ 30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript#-day-1)
+1. 📜 [developer-mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
+2. 📜 [ Airbnb-JavaScript](https://github.com/paolocarrasco/javascript-style-guide)
+
+3. 📜 [ 30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript#-day-1)
 
 
