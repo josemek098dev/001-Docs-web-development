@@ -251,3 +251,8 @@ getImagen( )
 	console.log( mensaje ) // Activo
 
 ```
+### Otros sitios interesantes para aprender
+
+[ 30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript#-day-1)
+
+
