@@ -253,7 +253,7 @@ getImagen( )
 ```
 ### Otros sitios interesantes para aprender
 
-1. 📜 [developer-mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript)
+1. 📜 [Developer-Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
 2. 📜 [ Airbnb-JavaScript](https://github.com/paolocarrasco/javascript-style-guide)
 
