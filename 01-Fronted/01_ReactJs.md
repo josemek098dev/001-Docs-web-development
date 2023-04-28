@@ -92,7 +92,7 @@ rafc - de Simple React Snippets crea automaticamente el esqueleto del componente
 ### Componentes
 Para no poner un div inecesario que este dentro de un div se usan los fragmentos
 return( <> … </>)
-podemos poner dentro de { } expresiones primitivas de js ( objetos.propiedad si pero objeto entero no, para hacerlo hacemos esto <code>JSON.stringify(objeto) <code>)
+podemos poner dentro de { } expresiones primitivas de js ( objetos.propiedad si pero objeto entero no, para hacerlo hacemos esto <cod e>JSON.stringify(objeto) <cod e>)
 Ojo no podemos devolver una promesa por ser asincrona
 Se recomienda  q las funciones se pongan fuera de los funcional compoents
 en el main con import './styles.css' importamos el estilo q queramos
