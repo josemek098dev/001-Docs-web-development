@@ -12,19 +12,19 @@
 </div>
 
   - [Indice](##Variables_y_constantes)
-    -[React](###React)
-    -[Componentes](###Componentes)
-    -[Iniciar un proyecto - vite](###Iniciar_un_proyecto_-_vite)
-    -[Iniciar un proyecto - cra](###Iniciar_un_proyecto_-_cra)
-    -[Diferencias Cra - Vite](###Diferencias_Cra_-_Vite)
-    -[Hola Mundo en React](###Hola_Mundo_en_React)
-    -[Snippets en React](###Snippets_en_React)
-    -[Componentes](###Componentes)
-    -[Comunicacion entre componentes](###Comunicacion_entre_componentes)
-    -[PropTypes](###PropTypes)
-    -[DefaultProps](###DefaultProps)
-    -[Eventos](###Eventos)
-    -[useState – Hook](###useState_–_Hook)
+    - [React](###React)
+    - [Componentes](###Componentes)
+    - [Iniciar un proyecto - vite](###Iniciar_un_proyecto_-_vite)
+    - [Iniciar un proyecto - cra](###Iniciar_un_proyecto_-_cra)
+    - [Diferencias Cra - Vite](###Diferencias_Cra_-_Vite)
+    - [Hola Mundo en React](###Hola_Mundo_en_React)
+    - [Snippets en React](###Snippets_en_React)
+    - [Componentes](###Componentes)
+    - [Comunicacion entre componentes](###Comunicacion_entre_componentes)
+    - [PropTypes](###PropTypes)
+    - [DefaultProps](###DefaultProps)
+    - [Eventos](###Eventos)
+    - [useState – Hook](###useState_–_Hook)
 
 ##  Resumen
 ### React 
