@@ -1,6 +1,6 @@
 <div align="center">
 
-![Day 5](./01-Fronted/images/banners/React_Banner.png)
+![Day 5](./images/banners/React_Banner.png)
 
   <h1> ReactJs </h1>
   

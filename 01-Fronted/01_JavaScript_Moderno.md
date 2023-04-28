@@ -1,6 +1,6 @@
 <div align="center">
 
-![Day 5](./01-Fronted/images/banners/js.jpg)
+![Day 5](./images/banners/js.jpg)
 
   <h1> JavaScript Moderno </h1>
   
