@@ -12,7 +12,7 @@ Este es un resumen de documentacion en general sobre temas de desarrollo web en 
 
 ##  Front-End Web Development
 
-![Day 5](./images/Banner.png)
+
 
 | #  | Tecnología                   | Funcionalidad                                    |
 |----|-------------------------------|--------------------------------------------------|
