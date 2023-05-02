@@ -1,7 +1,7 @@
 Este es un resumen de documentacion en general sobre temas de desarrollo web en formato md.
 
 
-### Front-End Web Development   
+## Front-End Web Development   
 #### 01. HTML 5 - Lenguaje de marcado para la web
 #### 02. CSS 3 - Lenguaje de estilo para la web
 #### 03. Bootstrap 5 - Framework CSS para diseño web
@@ -13,7 +13,7 @@ Este es un resumen de documentacion en general sobre temas de desarrollo web en 
 #### 09. [ ReactJS](./02-Fronted/02-ReactJS.md) - Biblioteca de Javascript para UI
 #### 10. Visual Code - Editor de código
 #### 
-### Backend Web Development                   
+## Backend Web Development                   
 #### 11. Node.js - Entorno de tiempo de ejecución de JavaScript
 #### 12. NPM - Gestor de paquetes de Node.js
 #### 13. Express.js - Framework de Node.js para construir aplicaciones web
