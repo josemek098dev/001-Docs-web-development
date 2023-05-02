@@ -49,7 +49,7 @@ Este es un resumen de documentacion en general sobre temas de desarrollo web en 
     </tr>
     <tr>
       <td align="center" valign="top" >06</td>
-      <td align="left" valign="top" ><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=kentcdodds" title="Documentation">Javascript ES6</a></td>
+      <td align="left" valign="top" ><a href="https://github.com/josemek098dev/001-Docs-web-development/blob/master/02-Fronted/01-JavaScript.md" title="Documentation">Javascript ES6</a></td>
       <td align="left" valign="top" >Lenguaje de programación para la web</td>
     </tr>
     <tr>
