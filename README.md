@@ -59,7 +59,7 @@ Este es un resumen de documentacion en general sobre temas de desarrollo web en 
     </tr>
     <tr>
       <td align="center" valign="top" >08</td>
-      <td align="left" valign="top" ><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=kentcdodds" title="Documentation">ReactJS</a></td>
+      <td align="left" valign="top" ><a href="https://github.com/josemek098dev/001-Docs-web-development/blob/master/02-Fronted/02-ReactJS.md" title="Documentation">ReactJS</a></td>
       <td align="left" valign="top" >Biblioteca de Javascript para UI</td>
     </tr>
       </tbody>
