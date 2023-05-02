@@ -6,7 +6,7 @@ Este es un resumen de documentacion en general sobre temas de desarrollo web en 
   * Git-Github - Control de versiones y colaboración
   * Visual Code - Editor de código
 
-* Front-End Web Development   
+* Frontend Web Development   
   * HTML 5 - Lenguaje de marcado para la web
   * CSS 3 - Lenguaje de estilo para la web
   * Bootstrap 5 - Framework CSS para diseño web
