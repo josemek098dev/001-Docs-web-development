@@ -1,9 +1,9 @@
 <div align="center">
 
 
-![Day 5](./02-Frontend/images/banners/React_Banner.png)
+![Day 5](./02-Fronted/images/banners/React_Banner1.png)
 
-  <h1> ReactJs </h1>
+  <h1> Full-Stack Web Development  </h1>
   
 
   <sub>Author:
@@ -12,11 +12,10 @@
   </sub>
 </div>
 
+### **Introducción**
 
 Este es un resumen de documentacion en general sobre temas de desarrollo web en formato md.
 
-
-## Full-Stack Development
 ### **Basic Tools**
 
 <table >
