@@ -1,10 +1,26 @@
-## Comandos útiles de consola
+<div align="center">
+
+
+![Day 5](./images/banners/Git_Banner1.png)
+
+  <h1> Git y Github </h1>
+  
+
+  <sub>Author:
+  <a href="" target="_blank">Jose A. Cordoba</a><br>
+  <small> April, 2023</small>
+  </sub>
+</div>
+
+## Resumen
+
+### Comandos útiles de consola
 
 - `touch`: crea un archivo
 - `ls -a`: muestra todos los archivos y carpetas ocultos
 - `q`: salir de donde estemos
 
-## Comandos útiles de Git-Github (S21)
+### Comandos útiles de Git-Github (S21)
 
 - `git init`: inicia git en la ruta (1)
 - `git status`: muestra los archivos sin seguimiento
@@ -45,7 +61,7 @@
 - `.Approve`
 - `.Request changes`
 
-## Tips de Angela (S21)
+### Tips de Angela (S21)
 
 - Repetir espaciado, revisar cada semana un tema o algo similar.
 - Utilizar `git checkout --.` para volver a la última versión de los archivos.
@@ -57,7 +73,7 @@
 
 Claro, continuando con la lista:
 
-## Comandos esenciales de Git
+### Comandos esenciales de Git
 
 Aquí hay una lista de comandos esenciales de Git que son útiles para trabajar con repositorios:
 
@@ -75,7 +91,7 @@ Aquí hay una lista de comandos esenciales de Git que son útiles para trabajar 
 12. `git remote add origin <url>`: agrega un repositorio remoto con el nombre "origin".
 13. `git push -u origin master`: empuja los cambios locales al repositorio remoto "origin" en la rama "master".
 
-## Modificar un commit
+### Modificar un commit
 
 Si es necesario modificar un commit existente, se puede utilizar el siguiente comando:
 
@@ -85,7 +101,7 @@ git commit --amend
 
 Este comando abre el editor de texto predeterminado y le permite cambiar el mensaje del commit. También se puede utilizar para agregar o eliminar archivos del commit.
 
-## Crear y eliminar ramas
+### Crear y eliminar ramas
 
 Para crear una nueva rama, se puede utilizar el siguiente comando:
 
@@ -111,7 +127,7 @@ Para eliminar una rama, se puede utilizar el siguiente comando:
 git branch -d <nombre-de-la-rama-a-eliminar>
 ```
 
-## Git y GitHub Pages
+### Git y GitHub Pages
 
 GitHub Pages es un servicio de alojamiento web que permite a los usuarios publicar sitios web directamente desde un repositorio de GitHub. Para habilitar GitHub Pages para un repositorio, se debe seguir los siguientes pasos:
 
@@ -122,3 +138,8 @@ GitHub Pages es un servicio de alojamiento web que permite a los usuarios public
 Después de hacer estos pasos, se puede acceder al sitio web en `https://<nombre-de-usuario>.github.io/<nombre-del-repositorio>`.
 
 Espero que esto te haya sido de ayuda. Si tienes alguna otra pregunta, ¡no dudes en preguntar!
+
+### Documentacion
+
+1. 📜 [Git-GitHub FreeCodeCamp](https://www.youtube.com/watch?v=mBYSUUnMt9M)
+

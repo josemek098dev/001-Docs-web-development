@@ -12,20 +12,21 @@
   </sub>
 </div>
 
-  - [Indice](##Variables_y_constantes)
-    - [React](###React)
-    - [Componentes](###Componentes)
-    - [Iniciar un proyecto - vite](###Iniciar_un_proyecto_-_vite)
-    - [Iniciar un proyecto - cra](###Iniciar_un_proyecto_-_cra)
-    - [Diferencias Cra - Vite](###Diferencias_Cra_-_Vite)
-    - [Hola Mundo en React](###Hola_Mundo_en_React)
-    - [Snippets en React](###Snippets_en_React)
-    - [Componentes](###Componentes)
-    - [Comunicacion entre componentes](###Comunicacion_entre_componentes)
-    - [PropTypes](###PropTypes)
-    - [DefaultProps](###DefaultProps)
-    - [Eventos](###Eventos)
-    - [useState – Hook](###useState_–_Hook)
+- [Resumen](#resumen)
+  - [React](#react)
+  - [Componentes](#componentes)
+  - [Iniciar un proyecto - vite](#iniciar-un-proyecto---vite)
+  - [Iniciar un proyecto - cra](#iniciar-un-proyecto---cra)
+  - [Diferencias Cra - Vite](#diferencias-cra---vite)
+  - [Hola Mundo en React](#hola-mundo-en-react)
+  - [Snippets en React](#snippets-en-react)
+  - [Componentes](#componentes-1)
+  - [Comunicacion entre componentes](#comunicacion-entre-componentes)
+  - [PropTypes](#proptypes)
+  - [DefaultProps](#defaultprops)
+  - [Eventos](#eventos)
+  - [useState – Hook](#usestate--hook)
+  - [Otros sitios interesantes para aprender](#otros-sitios-interesantes-para-aprender)
 
 ##  Resumen
 ### React 
@@ -41,6 +42,7 @@ Pequeña pieza de cédigo encapsulada re-utilizable que puede tener estado o no.
 	1. yarn create vite
 	2. tu-app-vite > react
 	3. yarn // instala las dependecias del proyecto
+	4. yarn dev || npm run dev// inicia la aplicacion en el localhost
 
 ### Iniciar un proyecto - cra
 
