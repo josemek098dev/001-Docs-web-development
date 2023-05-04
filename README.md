@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![Day 5](./02-Fronted/images/banners/React_Banner1.png)
+![Day 5](./02-Fronted/images/banners/fullstackbanner.jpg)
 
   <h1> Full-Stack Web Development  </h1>
   
