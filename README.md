@@ -22,7 +22,7 @@ Este es un resumen de documentacion en general sobre temas de desarrollo web en 
   <tbody>
     <tr>
       <td align="center" valign="top" width="30px">01</td>
-      <td align="left" valign="top" width="300px"><a href="./02-Fronted/01-HTML-5.md">Git-Github</a></td>
+      <td align="left" valign="top" width="300px"><a href="https://github.com/josemek098dev/001-Docs-web-development/blob/master/01-Bases/00-GitGithub.md">Git-Github</a></td>
       <td align="left" valign="top" width="500px">Control de versiones y colaboración</td>
     </tr>
     <tr>
