@@ -144,3 +144,7 @@ Este es un resumen de documentacion en general sobre temas de desarrollo web en 
     </tr>
       </tbody>
 </table>
+
+### Otros sitios interesantes para aprender
+
+1. 📜 [Front-End Checklist-ES](https://github.com/eoasakura/Front-End-Checklist-ES) - La Front-End Checklist es una lista exhaustiva de todos los elementos que necesitas tener/probar antes de lanzar tu sitio/página HTML a producción. Esta basada en años de experiencia de desarrolladores Front-End, con agregados provenientes de otros checklist de código abierto.
