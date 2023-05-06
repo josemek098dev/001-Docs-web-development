@@ -43,7 +43,7 @@ Este es un resumen de documentacion en general sobre temas de desarrollo web en 
     </tr>
     <tr>
       <td align="center" valign="top" >02</td>
-      <td align="left" valign="top" ><a href="https://github.com/josemek098dev/001-Docs-web-development/blob/master/02-Fronted/00-CSS3.md" title="Documentation">CSS 3</a></td>
+      <td align="left" valign="top" ><a href="https://github.com/josemek098dev/001-Docs-web-development/blob/master/02-Fronted/02.1-CSS_SyntaxAndSelectors.md" title="Documentation">CSS 3</a></td>
       <td align="left" valign="top" >Lenguaje de estilo para la web</td>
     </tr>
     <tr>
