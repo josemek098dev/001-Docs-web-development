@@ -12,7 +12,7 @@
   </sub>
 </div>
 
-[<< Home](https://github.com/josemek098dev/001-Docs-web-development/blob/master/README.md) | [Seccion 2 >>](https://github.com/josemek098dev/001-Docs-web-development/blob/master/02%20-%20Fronted/08%20-%20ReactJs/804%20-%20React%20-%20GifExpert%20pruebas.md)
+[<< Home](https://github.com/josemek098dev/001-Docs-web-development/blob/master/README.md) | [Seccion 2 >>](https://github.com/josemek098dev/001-Docs-web-development/blob/master/02%20-%20Fronted/08%20-%20ReactJs/802%20-%20React%20-%20pruebas.md)
 
 - [Resumen](#resumen)
   - [React](#react)
